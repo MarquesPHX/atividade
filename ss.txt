@@ -1,0 +1,107 @@
+1) Algoritimo Horas, Minutos e Segundos
+
+Início 
+     inteiro (horas)
+     escreva ( "Digite as horas")
+     leia horas
+     minutos = horas * 60
+     segundos = minutos * 60
+     escreva ( "A quantidade de minutos é:(minutos) e a de segundos é:(segundos)")
+fim
+
+
+2) Algoritimo Raio do Circulo 
+
+Início 
+     real (3.14)
+     escreva ( "Digite o número do raio")
+     area = 3.14 * raio
+     esrcreva ("A area é igual a (area)")
+fim
+
+
+3) Algoritimo Média Aritimetica 
+ 
+Início
+     real (nota 1),(nota 2),(nota3)
+     escreva ("Digite sua primeira nota")
+     leia (nota 1)
+     escreva ("Digite sua segunda nota")
+     leia (nota 2)
+     escreva ("Digite sua terceira nota")
+     leia (nota 3)
+     media = ((nota 1) + (nota 2) + (nota 3))/3
+     escreva ("Sua média é (media)")
+     
+fim
+
+
+4) Algoritimo de Divisão
+
+Início
+     inteiro (dividendo, divisor)
+     escreva ("Digite um valor para o dividendo")
+     leia (dividendo)
+     escreva ("Digite um valor para o divisor")
+     leia (divisor)
+     resultado = dividendo mod divisor
+     resto = dividendo - (resultado + divisor)
+     escreva ("O resultado é :(resultado) e o resto da equação é : (resto))
+fim
+
+
+5) Algoritimo calculo de fios
+
+Início
+     real (rolos)
+     escreva ("Digite aqui a quantidade de rolos")
+     leia (rolos)
+     fios = (rolos) * 50
+     escreva ("(rolos) rolos equivalem a (fios) metros de fio")
+fim
+
+
+6) Algoritimo Calculo de media 
+
+Início
+    real (nota a),(nota b)
+    nota a = ou < 3.5
+    nota b = ou < 7.5
+    escreva ("Digite a sua nota")
+    leia (nota A)
+    escreva ("Digite a sua nota")
+    leia (nota b)
+    resultado = (nota a)+(nota b) 
+    resultado = ou < 10
+    escreva ("O resultado é :(resultado)")
+
+fim
+
+7) Algoritimo Dados Pessoais 
+
+Início
+     char (nome),(sexo)
+     real (matricula),(trabalho),(valor)
+     escreva("Digite seu nome")
+     leia (nome)
+     escreva("Digite seu sexo")
+     leia (sexo)
+     escreva("Digite sua matrícula")
+     leia (matricula)
+     escreva("Digite seu número de horas trabalhadas")
+     leia (trabalho)
+     escreva("Digite o valor que recebe por horas")
+     leia (valor)
+     salario = (trabalho) * (valor)
+     escreva("Seu nome é (nome), seu sexo é (sexo), sua matrícula é (matricula), seu número de horas trablhadas é (trabalho), você recebe por horas (valor) e seu salário é (salario)") 
+
+     
+     
+     
+     
+
+
+
+
+
+
